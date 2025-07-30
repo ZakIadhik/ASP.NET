@@ -1,0 +1,14 @@
+D:\RiderProject\StudentManagementApi\StudentData\bin\Debug\net9.0\StudentData.deps.json
+D:\RiderProject\StudentManagementApi\StudentData\bin\Debug\net9.0\StudentData.runtimeconfig.json
+D:\RiderProject\StudentManagementApi\StudentData\bin\Debug\net9.0\StudentData.dll
+D:\RiderProject\StudentManagementApi\StudentData\bin\Debug\net9.0\StudentData.pdb
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\StudentData.csproj.AssemblyReference.cache
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\StudentData.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\StudentData.AssemblyInfoInputs.cache
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\StudentData.AssemblyInfo.cs
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\StudentData.csproj.CoreCompileInputs.cache
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\StudentData.dll
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\refint\StudentData.dll
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\StudentData.pdb
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\StudentData.genruntimeconfig.cache
+D:\RiderProject\StudentManagementApi\StudentData\obj\Debug\net9.0\ref\StudentData.dll
